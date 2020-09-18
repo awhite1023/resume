@@ -1,0 +1,116 @@
+{
+    "company": "Occidental Petroleum",
+    "job": {
+        "title": "Reservoir Engineer Advisor",
+        "area": "South Texas Gas / New Mexico Unconventional"
+    },
+    "description": "summary blurb on what I did",
+    "date": {
+	"start": "08/2014",
+	"end": "01/2020"
+    },
+    "location": {
+	"city": "Houston",
+	"state": "TX",
+	"country": "USA"
+    },
+    "awesomeness": [
+	{"type": "bullet1", "info": "Complete economic evaluations for non-operated drilling participation with limited offset data, typically with less than 1 month turn around for approximately 10 wells per month"},
+        {"type": "bullet2", "info": "Increased drilling inventory by 50 locations through the use of multi-scenarios planning to evaluate most efficient plan to meet corporate goals"},
+        {"type": "bullet3", "info": "Review 30+ conventional oil and gas opportunities for recompletion in vertical wells along the New Mexico/ Texas border in the central basin platform area to add low capital production to mature fields"},
+        {"type": "bullet4", "info": "Conduct monthly production forecast for 6-10 mboepd area and annual budget development for accurate corporate planning"},
+        {"type": "bullet5", "info": "Performed SEC reserves evaluation of over 1000 wells annually using OFM, RTA and PEEP"},
+        {"type": "bullet6", "info": "Mentor 6 junior engineers and 4 managers annually in economic evaluation, reserves, technical analysis of recompletion candidates, production profile development and waterflood evaluations"},
+        {"type": "bullet7", "info": "Championed within the 20 person user group a roll out of new in-house production forecast software to improve efficiency by 70%"}
+    ]
+}
+{
+    "company": "Penn West Petroleum",
+    "job": {
+        "title": "Senior Waterflood Exploitation Engineer",
+        "area": "Pembina and Willesden Green Cardium"
+    },
+    "description": "Direct supervisor of two technical staff.  Created and led team of senior engineers focused in the Pembina and Willesden Green Cardium Waterflood (WF) resulting in better coverage and transfer of best practices.",
+    "date": {
+	"start": "05/2011",
+	"end": "05/2014"
+    },
+    "location": {
+	"city": "Calgary",
+	"state": "AB",
+	"country": "CA"
+    },
+    "awesomeness": [
+	{"type": "bullet1", "info": "Incorporated full waterflood pressure support in field development plans for over 100 tight oil horizontal development plays to improve recovery and asset value"},
+        {"type": "bullet2", "info": "Developed waterflood type curves for horizontal multistage frac wells and worked to get 5 horizontal wells on injection by year end 2013 which were the first horizontal injection wells in the Willesden Green Field"},
+        {"type": "bullet3", "info": "Evaluation of waterflood optimization using StreamSim numerical modeling adding 1% recovery factor, and review of full simulation work done in the area to assure realistic results"},
+        {"type": "bullet4", "info": "Brought the Pembina Cardium area back into compliance with the Alberta Energy Regulatory board by increasing injection rates on 20+ wells and amended approvals of 15+ waterflood areas"},
+    ]
+}
+{
+    "company": "Hunt Oil Company of Canada",
+    "job": {
+        "title": "Reservoir Engineer",
+        "area": "Oil Team"
+    },
+    "description": "Led team through evaluation of marginal oil property in BC, leading to successful approval from BC Oil & Gas Commission for gas flood resulting in incremental 10%+ oil reserves and elimination of sour gas flaring.",
+    "date": {
+	"start": "04/2008",
+	"end": "02/2011"
+    },
+    "location": {
+	"city": "Calgary",
+	"state": "AB",
+	"country": "CA"
+    },
+    "awesomeness": [
+	{"type": "bullet1", "info": "Led technical team for unitization in southern Alberta which added an incremental 10% oil production through waterflood.  Liaised with ERCB, Crown an partners to move project forward"},
+        {"type": "bullet2", "info": "Evaluated economic potential of multi-frac horizontal wells in new area, which led to successful drills in 2 central Alberta gas properties adding over 3 bcf gross reserves"},
+        {"type": "bullet3", "info": "Conducted economic evaluation of drilling, facility, and Enhanced Oil Recovery projects for potential acquision and capital expenditure"},
+        {"type": "bullet4", "info": "Presentation of assets in divestment and worked on final data transfer"},
+    ]
+}
+{
+    "company": "Harvest Energy Trust",
+    "job": {
+        "title": "Senior Exploitation Engineer",
+        "area": "Heavy Oil, Lloydmister Area"
+    },
+    "description": "Conducted economic evaluations of drilling, facilitym and optimization projects.  Applied to Alberta regulatory board for area development to increase well density",
+    "date": {
+	"start": "08/2006",
+	"end": "09/2007"
+    },
+    "location": {
+	"city": "Calgary",
+	"state": "AB",
+	"country": "CA"
+    },
+    "awesomeness": [
+	{"type": "bullet1", "info": "Explained the basics of reservoir optimization to Land Owners as a result of the notification process for application"},
+        {"type": "bullet2", "info": "Reviewed third party reserve evaluations to ensure accurate company valuation"},
+    ]
+}
+{
+    "company": "Husky Energy",
+    "job": {
+        "title": "Senior Exploitation Engineer",
+        "area": "Heavy Oil & Gas Business Unit, Wainwright Area"
+    },
+    "description": "Responsible for annual capital budget, reserves and capital project approval for waterflood and heavy oil areas in Wainwright",
+    "date": {
+	"start": "08/2001",
+	"end": "07/2006"
+    },
+    "location": {
+	"city": "Calgary",
+	"state": "AB",
+	"country": "CA"
+    },
+    "awesomeness": [
+	{"type": "bullet1", "info": "Managed capital budget between $10 and $20 million for drilling, waterflood optimization and maintenance"},
+        {"type": "bullet2", "info": "Excellent knowledge of the SAP accounting system for AFE, capital budget and operating cost management"},
+        {"type": "bullet3", "info": "Conducted quarterly SEC reserve evaluations"},
+        {"type": "bullet4", "info": "Managed the Abandonment program of $1 to $6 million for business unit, including budget and long range plan developement"},
+    ]
+}
